@@ -1,1 +1,16 @@
 /*This is the custom css file*/
+.wraper{
+}
+.sidebar{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+header{
+    background: #3e8f3e;
+    padding: 10%;
+}
+.container{
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
